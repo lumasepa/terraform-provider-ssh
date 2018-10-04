@@ -19,7 +19,7 @@ curl https://raw.githubusercontent.com/Sedicii/terraform-provider-ssh/master/scr
 
 ### Usage
 
-```
+```hcl-terraform
 provider "ssh" {
   version = "~> 0.1.0"
 }
